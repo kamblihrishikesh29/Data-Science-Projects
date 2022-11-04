@@ -1,5 +1,7 @@
 # Data-Science-Projects
 
+Hi I am Hrishikesh 
+
 ## [Project 1: Stroke Prediction](https://github.com/clairevania/Data-Science-Projects/blob/main/stroke.ipynb)
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
 
